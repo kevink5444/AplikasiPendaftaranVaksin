@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplikasiPendaftaranVaksin 201111001_Nathaniel Kevin Kurniawan</string>
+    <string name="panduanaplikasi">Aplikasi Pendaftaran Vaksin merupakan aplikasi yang digunakan untuk memudahkan mendaftar vaksin</string>
+    <string name="panduanaplikasi2">Lalu juga terdapat bagian Info Aplikasi yang didalamnya terdapat Nama Aplikasi,Versi Aplikasi,Logo Aplikasi dan juga tombol untuk kembali ke Halaman Utama</string>
+</resources>
